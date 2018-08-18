@@ -1,2 +1,5 @@
-# docker-git-client
-Git client
+# docker-git-client on alpine linux
+```
+docker run --name git babim/git
+```
+
